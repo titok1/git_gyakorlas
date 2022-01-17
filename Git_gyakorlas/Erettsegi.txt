@@ -6,3 +6,7 @@ Táblázatkezelés
 Adatbázis-kezelés
 
 Informatikai emelt szintű érettségi:
+Dokumentumszerkesztés
+Táblázatkezelés
+Adatbázis-kezelés
+Programozás
